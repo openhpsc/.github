@@ -11,6 +11,7 @@ OpenHPSC is in its definition phase. Help shape the requirements, explore archit
 | Resource | Purpose |
 | --- | --- |
 | [Documentation](https://openhpsc.github.io/) | Explore the mission, architecture, and technical guides |
+| [Knowledge](https://github.com/openhpsc/knowledge) | Discover papers, reports, manuals, presentations, and reading notes |
 | [Discussions](https://github.com/openhpsc/community/discussions) | Introduce yourself, ask questions, and share ideas |
 | [Community issues](https://github.com/openhpsc/community/issues) | Propose research, requirements, and experiments |
 | [R&D project](https://github.com/orgs/openhpsc/projects/2) | Follow ongoing work and progress |
